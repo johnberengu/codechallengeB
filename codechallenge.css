@@ -1,0 +1,36 @@
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+/* make changes on the list */
+li {
+    padding: 8px 12px;
+    margin: 4px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+li:hover{
+    background-color: red;
+}
+
+.purchased {
+    text-decoration: line-through;
+    background-color: #d3ffd3;
+    color: green;
+}
+
+*{
+    font-size: 50px;
+    background-color: cornflowerblue;
+}
+button{
+    background-color: chocolate;
+    cursor: pointer;
+}
+ 
+button:hover{
+    background-color: crimson;
+}
