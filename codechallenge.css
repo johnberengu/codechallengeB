@@ -10,6 +10,7 @@ li {
     border-radius: 4px;
     cursor: pointer;
     font-size: 30px;
+    color: darkslategray;
 }
 
 li:hover{
