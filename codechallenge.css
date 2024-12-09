@@ -24,13 +24,26 @@ li:hover{
 
 *{
     font-size: 50px;
-    background-color: cornflowerblue;
+    /* background-color: cornflowerblue; */
 }
 button{
     background-color: chocolate;
     cursor: pointer;
+    box-shadow: 100px;
 }
  
 button:hover{
     background-color: crimson;
+}
+.style {
+    margin: 600px;
+    padding: 100px;
+    border: 10px;
+    border-radius: 20px;
+    border-style: solid;
+    background-color: cornflowerblue;
+}
+
+h2{ 
+    text-decoration: underline;
 }
