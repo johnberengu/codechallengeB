@@ -10,7 +10,7 @@ li {
     border-radius: 4px;
     cursor: pointer;
     font-size: 30px;
-    color: darkslategray;
+    color: darkslateblue;
 }
 
 li:hover{
@@ -31,13 +31,14 @@ button{
     background-color: chocolate;
     cursor: pointer;
     box-shadow: 100px;
+    margin: 20px;
 }
  
 button:hover{
     background-color: crimson;
 }
 .style {
-    margin: 600px;
+    margin: 400px;
     padding: 100px;
     border: 10px;
     border-radius: 20px;
